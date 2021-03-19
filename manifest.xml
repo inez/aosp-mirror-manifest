@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote fetch="ssh://git@github.com/aosp-mirror/" name="origin"/>
+    <remote fetch="https://github.com/aosp-mirror/" name="origin"/>
     
 
     <default remote="origin" revision="master"/>
